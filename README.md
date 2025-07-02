@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 Me chamo Lucas Gabriel, sou programador front-end, atualmente aprendendo e criando projetos com 
-  HTML, CSS, JAVASCRIPT e REACT!
-Já passei por cursos: ( CURSO EM VIDEO ) e ( DEV CLUB ) com bastante aprendizados nesses cursos que passei!
-hoje busco minha primeira oportunidade dentro do mercado, buscando sempre dá o melhor de mim
+ - HTML
+ - CSS
+ - JAVASCRIPT
+ - REACT
+
+Com muito foco e determinação, sempre com vontade de aprender cada vez mais, estou disposto e em busca
+De uma primeira oportunidade dentro do mercado de trabalho! 
+
+*LINGUAGEUNS*
+
+
