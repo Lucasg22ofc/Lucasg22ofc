@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Lucas Gabriel!
 
 Sou um desenvolvedor em transição de carreira, focado em aprender e crescer na área de programação. Atualmente estudando com o DevClub 🚀
+  <br>
 Também já fiz o curso completo do (CURSO EM VIDEO) tenho também certificado, um aprendizado a mais para minha carreira na área! 
 
 ## 🛠️ Tecnologias que estou aprendendo
