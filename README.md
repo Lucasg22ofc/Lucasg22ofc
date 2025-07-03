@@ -1,14 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas Gabriel!
 
-Me chamo Lucas Gabriel, sou programador front-end, atualmente aprendendo e criando projetos com 
- - HTML
- - CSS
- - JAVASCRIPT
- - REACT
+Sou um desenvolvedor em transição de carreira, focado em aprender e crescer na área de programação. Atualmente estudando com o DevClub 🚀
 
-Com muito foco e determinação, sempre com vontade de aprender cada vez mais, estou disposto e em busca
-De uma primeira oportunidade dentro do mercado de trabalho! 
+## 🛠️ Tecnologias que estou aprendendo
 
-*LINGUAGEUNS*
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Lucas-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Lucas-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+<br>
+
+## 📱 Contato
+
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581996125014)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario/)  
+
+---
+
+✨ **"Cada linha de código escrita é um passo mais perto do meu sonho!"**
+
+
 
 
