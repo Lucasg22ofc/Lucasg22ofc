@@ -14,7 +14,7 @@ Sou um desenvolvedor em transição de carreira, focado em aprender e crescer na
 
 <br>
 
-[![Lucas Gabriel](https://github-readme-stats.vercel.app/api?username=Lucas Gabriel)](https://github.com/anuraghazra/github-readme-stats)
+[![LucasGabriel](https://github-readme-stats.vercel.app/api?username=LucasGabriel)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📱 Contato
 
