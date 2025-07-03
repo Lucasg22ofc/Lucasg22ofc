@@ -14,6 +14,8 @@ Sou um desenvolvedor em transição de carreira, focado em aprender e crescer na
 
 <br>
 
+[![Lucas Gabriel](https://github-readme-stats.vercel.app/api?username=Lucas Gabriel)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📱 Contato
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581996125014)  
